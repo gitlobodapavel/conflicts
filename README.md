@@ -1,1 +1,2 @@
-Some kind of changhe that causes a conflict
+This repo is created for conflict solving
+This may cause a conflict
